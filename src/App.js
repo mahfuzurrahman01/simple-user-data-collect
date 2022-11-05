@@ -3,7 +3,7 @@ import './App.css';
 import AddUsers from './Components/AddUsers';
 import Home from './Components/Home';
 import Update from './Components/Update';
-import Users from './Components/Users';
+import Users from './Components/users/Users.jsx';
 import Main from './Layouts/Main';
 const router = createBrowserRouter([
   {
